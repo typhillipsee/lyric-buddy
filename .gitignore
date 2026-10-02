@@ -1,0 +1,16 @@
+# Private credentials
+secrets.h
+.env
+.env.*
+!.env.example
+
+# Build files
+*.elf
+*.hex
+*.bin
+*.map
+build/
+
+# Computer files
+.DS_Store
+.vscode/
